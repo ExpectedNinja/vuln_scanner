@@ -1,6 +1,6 @@
 # Vulnerability Scanner
 
-A high-speed network utility designed to identify active entry points on a target system.
+A high-performance, asynchronous port scanner featuring a seamless, borderless terminal user interface.
 
 ## How it works
 
