@@ -5,3 +5,5 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
+ratatui = "0.26"
+crossterm = "0.27"
